@@ -1,0 +1,3 @@
+This application was developed along with three other people. Camellia Guan (Cornell '24) and Miranda Medina (Cornell 22')
+worked on the backend of the application while Heysil Baez (Cornell 23') worked with me on the frontend. The link to the video 
+is: https://youtu.be/9gvHzLdzWpk

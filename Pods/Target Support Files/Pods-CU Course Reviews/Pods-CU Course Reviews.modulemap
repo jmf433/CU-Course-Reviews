@@ -1,0 +1,6 @@
+framework module Pods_CU_Course_Reviews {
+  umbrella header "Pods-CU Course Reviews-umbrella.h"
+
+  export *
+  module * { export * }
+}
